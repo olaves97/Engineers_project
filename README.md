@@ -1,5 +1,4 @@
-# [ENG] Engineering Project
-The program for operating the lighting control module
+# [ENG] The program for operating the lighting control module
 
 
 As part of the engineering work, a design of an intelligent LED controller for the room was made. A wireless system to control the intensity and color of light was designed and manufactured. The project was implemented using the MQTT communication protocol. The system was based on a home WiFi network. The NodeMCU v3 board was used to make the module.
@@ -7,8 +6,7 @@ The program was created in the Arduino IDE in C language. The broker, necessary 
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-# [PL] Praca Inżynierska
-Program do obsługi modułu sterującego oświetleniem
+# [PL] Program do obsługi modułu sterującego oświetleniem
 
 
 W ramach pracy inżynierskiej wykonano projekt inteligentnego sterownika LED do pomieszczenia. Zaprojektowano i wykonano system bezprzewodowy do sterowania natężeniem i barwą światła. Projekt zrealizowano wykorzystując protokół komunikacyjny MQTT. System działał w oparciu o sieć domową WiFi. Do wykonania modułu wykorzystano płytkę NodeMCU v3. 
