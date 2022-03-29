@@ -7,7 +7,7 @@ The program was created in the Arduino IDE in C language. The broker, necessary 
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-# [PL] Praca Inzynierska
+# [PL] Praca Inżynierska
 Program do obsługi modułu sterującego oświetleniem
 
 
