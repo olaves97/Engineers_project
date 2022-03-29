@@ -1,4 +1,4 @@
-# Engineering Project
+# [ENG] Engineering Project
 The program for operating the lighting control module
 
 
@@ -7,7 +7,7 @@ The program was created in the Arduino IDE in C language. The broker, necessary 
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-# Praca Inzynierska
+# {PL] Praca Inzynierska
 Program do obsługi modułu sterującego oświetleniem
 
 
